@@ -1,0 +1,22 @@
+.error{
+    border: 1px solid red;
+
+}
+
+.error-sms{
+    width: 250px;
+    height: 40px;
+    background-color: red;
+    font-size: 18px;
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active-filter{
+    background-color: blueviolet;
+}
